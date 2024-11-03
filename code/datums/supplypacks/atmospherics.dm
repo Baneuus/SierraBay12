@@ -110,7 +110,7 @@
 
 /singleton/hierarchy/supply_pack/atmospherics/fuel
 	name = "Liquid - Fuel tanks"
-	contains = list(/obj/item/tank/hydrogen = 4)
+	contains = list(/obj/structure/reagent_dispensers/fueltank = 4)
 	cost = 15
 	containername = "fuel tank crate"
 
