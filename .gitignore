@@ -56,19 +56,3 @@ package-lock.json
 
 # ignore local selected map
 /maps/using.dm
-config/example/admin_ranks.txt
-config/example/admins.txt
-config/example/alienwhitelist.txt
-config/example/away_site_blacklist.txt
-config/example/config.txt
-config/example/custom_sprites.txt
-config/example/dbconfig.txt
-config/example/dbconfig_docker.txt
-config/example/exoplanet_ruin_blacklist.txt
-config/example/game_options.txt
-config/example/hub.txt
-config/example/jobs.txt
-config/example/motd.txt
-config/example/space_ruin_blacklist.txt
-config/example/torch_config.txt
-config/example/webhooks.json
