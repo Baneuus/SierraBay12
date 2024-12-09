@@ -102,6 +102,6 @@
 
 //PRIMLANGS - Start
 #define LANGUAGE_SIMPSKRELLIAN "Simplified Skrellian"
-#define LANGUAGE_SIMPUNATHI "Simplified Sinta'Unathi"
+#define LANGUAGE_SIMPUNATHI "Iber'Unathi"
 #define LANGUAGE_SIMPTAJARAN "Simplified Siik'Maas"
 //PRIMLANGS - End
