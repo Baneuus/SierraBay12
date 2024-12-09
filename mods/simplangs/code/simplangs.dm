@@ -1,6 +1,6 @@
 /datum/language/simpskrell
 	name = LANGUAGE_SIMPSKRELLIAN
-	desc = "A crude and simplified interpretation of skrellian language spoken by humans."
+	desc = "A simplified interpretation of skrellian language, designed specifically to be spoken by humans."
 	speech_verb = "warbles"
 	ask_verb = "warbles"
 	exclaim_verb = "warbles"
@@ -37,7 +37,7 @@
 
 /datum/language/simpunathi
 	name = LANGUAGE_SIMPUNATHI
-	desc = "A crude and simplified interpretation of sinta'unathi language spoken by humans."
+	desc = "A derivative of Sinta'Unathi, this language has been created specifically to be spoken by humans. Vocal sounds and limb gestures that cannot be properly replicated by humans have been replaced with Iberian vowels. Iber'Unathi is primarily used by denizens of the Tersten Republic."
 	speech_verb = "hisses"
 	ask_verb = "hisses"
 	exclaim_verb = "roars"
@@ -53,7 +53,7 @@
 		"ra", "ar", "re", "er", "ri", "ir", "ro", "or", "ru", "ur", "rs", "sr",
 		"a",  "a",  "e",  "e",  "i",  "i",  "o",  "o",  "u",  "u",  "s",  "s"
 	)
-	shorthand = "sUT"
+	shorthand = "iUT"
 	has_written_form = TRUE
 	partial_understanding = list(LANGUAGE_UNATHI_SINTA = 80, LANGUAGE_UNATHI_YEOSA = 40)
 
