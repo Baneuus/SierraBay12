@@ -59,11 +59,11 @@
 
 /datum/language/unathi/New()
 	. = ..()
-	partial_understanding += list(LANGUAGE_SIMPUNATHI = 90)
+	partial_understanding += list(LANGUAGE_SIMPUNATHI = 90, LANGUAGE_UNATHI_YEOSA = 80)
 
-/datum/language/unathi/yeosa/New()
+/datum/language/yeosa/New()
 	. = ..()
-	partial_understanding += list(LANGUAGE_SIMPUNATHI = 60)
+	partial_understanding += list(LANGUAGE_SIMPUNATHI = 60, LANGUAGE_UNATHI_SINTA = 80)
 
 /singleton/cultural_info/culture/human
 	secondary_langs = list(
@@ -76,14 +76,4 @@
 		LANGUAGE_SPACER,
 		LANGUAGE_SIGN,
 		LANGUAGE_SIMPTAJARAN
-	)
-
-/datum/language/unathi
-	partial_understanding = list(
-		LANGUAGE_UNATHI_YEOSA = 80
-	)
-
-/datum/language/yeosa
-	partial_understanding = list(
-		LANGUAGE_UNATHI_SINTA = 80
 	)
