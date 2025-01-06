@@ -28,6 +28,7 @@
 #include "code/jobs.dm"
 #include "code/bottom.dm"
 #include "code/top.dm"
-#include "code\skrell-ship.dm"
+#include "code/skrell-ship.dm"
+#include "code/adherent_armor.dm"
 
 #endif
